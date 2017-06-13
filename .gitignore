@@ -1,2 +1,13 @@
+## npm and modules
 node_modules
-npm-debug.log
+.npm
+
+## Logs
+npm-debug.log*
+*.log
+
+## development in WebStorm (c)
+.idea
+
+## back-up files from gedit editor
+*~
