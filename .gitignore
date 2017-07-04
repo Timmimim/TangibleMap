@@ -7,7 +7,7 @@ npm-debug.log*
 *.log
 
 ## development in WebStorm (c)
-.idea
+.idea/*
 
 ## back-up files from gedit editor
 *~
